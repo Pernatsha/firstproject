@@ -1,0 +1,28 @@
+form{
+    /* border: 1px solid; */
+    height: 90vh;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+label{
+    font-size: large;
+    font-weight: 700;
+}
+.all{
+    border: 1px solid;
+    width: 30vw;
+    height: 50vh;
+    color: white;
+    background-color: black;
+    padding: 10px;
+
+}
+input{
+    width: 80%;
+    height: 5vh;
+}
+button{
+    background-color: rgb(54, 82, 241);
+    height: 5vh;
+}
